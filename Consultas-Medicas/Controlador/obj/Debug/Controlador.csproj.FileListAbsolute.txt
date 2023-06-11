@@ -1,0 +1,10 @@
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\bin\Debug\Controlador.dll
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\bin\Debug\Controlador.pdb
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\bin\Debug\Modelo.dll
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\bin\Debug\mysql.data.dll
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\bin\Debug\Modelo.pdb
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\obj\Debug\Controlador.dll
+C:\Users\daro\Documents\Consultas-Medicas\Controlador\obj\Debug\Controlador.pdb
